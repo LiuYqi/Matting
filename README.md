@@ -1,5 +1,5 @@
-# Matting
-Extract portrait automatically. (without trimap, alpha; simple background) 
+# Matting & Replace background
+Extract portrait and change the background automatically. (without trimap, alpha; simple background) 
 ## 环境&依赖
    Ubuntu16.04系统运行  
    OpenCV3.3.1
