@@ -1,7 +1,7 @@
 # Matting
 Extract portrait automatically. (without trimap, alpha; simple background) 
 ## 环境&依赖
-   Ubuntu16.04系统运行
+   Ubuntu16.04系统运行；
    OpenCV3.3.1
 ## build文件夹
    background文件夹下为新背景
